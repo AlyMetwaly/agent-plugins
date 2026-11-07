@@ -1,0 +1,21 @@
+{
+  "name": "agent-plugins",
+  "owner": {
+    "name": "Aly Metwaly"
+  },
+  "metadata": {
+    "description": "Plugins for rolling out and reviewing AI coding tool adoption."
+  },
+  "plugins": [
+    {
+      "name": "adoption-scorecard",
+      "source": "adoption-scorecard",
+      "description": "Turn a per-user usage export into an honest adoption report, and read it without overclaiming."
+    },
+    {
+      "name": "rollout-decision-review",
+      "source": "rollout-decision-review",
+      "description": "Run a rollout decision review, check stop conditions, and draft a security and data checklist."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "adoption-scorecard",
+  "displayName": "Adoption Scorecard",
+  "version": "0.1.0",
+  "description": "Turn a per-user usage export into an adoption report, and read it without overclaiming. Includes a standard-library Python scorecard.",
+  "author": {
+    "name": "Aly Metwaly"
+  },
+  "homepage": "https://github.com/AlyMetwaly/agent-plugins/tree/main/adoption-scorecard",
+  "repository": "https://github.com/AlyMetwaly/agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "adoption",
+    "scorecard",
+    "rollout",
+    "usage-report",
+    "cursor-plugin"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "adoption",
+    "reporting",
+    "measurement"
+  ],
+  "skills": "./skills/",
+  "rules": "./rules/",
+  "commands": "./commands/"
+}

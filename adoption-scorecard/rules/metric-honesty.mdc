@@ -1,0 +1,16 @@
+---
+description: Keep adoption metrics honest when writing reports or summaries about AI coding tool usage.
+globs: "**/*adoption*,**/*usage*,**/*scorecard*"
+alwaysApply: false
+---
+
+# Metric honesty
+
+When you write about tool usage:
+
+- Every number carries its date, its definition and its population.
+- Show a metric next to the metric that exposes how it could mislead: licensed with activated, activated with sustained, weekly active with depth.
+- Do not read a metric as proof of the next layer. Licenses do not prove use. Use does not prove depth. Depth does not prove productivity.
+- Use "associated with", not "caused by", unless a controlled comparison was run.
+- Do not report hours saved, lines of code as productivity, or a ranking of individuals.
+- Say what the data cannot show.

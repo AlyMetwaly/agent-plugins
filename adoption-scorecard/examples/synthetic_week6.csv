@@ -1,0 +1,13 @@
+user_id,team,licensed_date,last_active_date,active_days_last_28,agent_sessions_last_28,accepted_suggestions_last_28,active_weeks_last_4
+w01,team-api,2025-02-03,2025-03-14,18,7,130,4
+w02,team-api,2025-02-03,2025-03-13,16,5,100,4
+w03,team-api,2025-02-03,2025-03-14,15,1,110,4
+w04,team-api,2025-02-03,2025-03-12,12,3,70,3
+w05,team-api,2025-02-03,2025-03-13,11,0,50,3
+w06,team-api,2025-02-03,2025-03-05,6,0,20,2
+w07,team-api,2025-02-03,2025-02-24,2,0,6,1
+w08,team-tools,2025-02-03,2025-03-14,14,4,80,4
+w09,team-tools,2025-02-03,2025-03-10,9,0,45,2
+w10,team-tools,2025-02-03,2025-02-28,3,0,10,1
+w11,team-tools,2025-02-03,2025-02-12,0,0,0,0
+w12,team-tools,2025-02-03,,0,0,0,0
