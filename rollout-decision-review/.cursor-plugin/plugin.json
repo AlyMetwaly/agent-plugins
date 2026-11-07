@@ -1,0 +1,28 @@
+{
+  "name": "rollout-decision-review",
+  "displayName": "Rollout Decision Review",
+  "version": "0.1.0",
+  "description": "Run a rollout decision review, check stop conditions against evidence, and draft a security and data checklist for an AI coding tool rollout.",
+  "author": {
+    "name": "Aly Metwaly"
+  },
+  "homepage": "https://github.com/AlyMetwaly/agent-plugins/tree/main/rollout-decision-review",
+  "repository": "https://github.com/AlyMetwaly/agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "rollout",
+    "decision-review",
+    "stop-conditions",
+    "security-checklist",
+    "cursor-plugin"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "rollout",
+    "governance",
+    "review"
+  ],
+  "skills": "./skills/",
+  "rules": "./rules/",
+  "commands": "./commands/"
+}

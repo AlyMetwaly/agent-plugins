@@ -1,0 +1,17 @@
+---
+description: Keep rollout reports and decision reviews tied to evidence, with limits stated.
+globs: "**/*decision*,**/*rollout*,**/*review*"
+alwaysApply: false
+---
+
+# Claims need evidence
+
+When you write a rollout report or review:
+
+- Every claim has a source, a date and a population.
+- Unknown values are written as unknown. Never fill a gap with a plausible number.
+- Usage and outcomes go in separate sections.
+- Pair every speed measure with a quality measure.
+- List what cannot be attributed to the tool.
+- A recommendation names its owner and the date it will be reviewed.
+- Thresholds are set before the period. Do not move one after seeing the data without logging why.
