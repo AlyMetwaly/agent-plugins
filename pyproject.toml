@@ -1,0 +1,10 @@
+[project]
+name = "agent-plugins"
+version = "0.1.0"
+description = "Plugins for rolling out and reviewing AI coding tool adoption."
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+pythonpath = ["tools"]
+testpaths = ["tests"]
